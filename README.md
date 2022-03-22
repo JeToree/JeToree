@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeToree
-- 👀 I’m interested in rythm games and coding
+- 👀 I’m interested in rythm games, art and coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on A videogame with me and my friends
 - 📫 How to reach me email betterdanidev@gmail.com
